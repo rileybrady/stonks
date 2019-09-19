@@ -47,8 +47,6 @@ body {
 	width; 100%;
 }
 
-/* https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/ */
-/* If you're using 'display: flex' this class can be used to easily center horizontally! */
 .center-horizontal {
 	align-items: center;	
 }
